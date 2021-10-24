@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120481332341",
+    "firebase_url": "https://quizemaker-a8534-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quizemaker-a8534",
+    "storage_bucket": "quizemaker-a8534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120481332341:android:4b8ebe206d2f8f59cb0c3c",
+        "android_client_info": {
+          "package_name": "com.quiz_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120481332341-pfa8ccslmri44i6f90tph1fg1flbplnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quiz_maker",
+            "certificate_hash": "8c9e09a0934a313a9b399acf87402765db6cc4a3"
+          }
+        },
+        {
+          "client_id": "120481332341-5qrrs5gjhv24ocjrvblgk9o7uslsirai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryf1Z4jr995TCGltE6AvT4-QjPnc2b_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120481332341-5qrrs5gjhv24ocjrvblgk9o7uslsirai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
